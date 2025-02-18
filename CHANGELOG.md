@@ -9,3 +9,5 @@
 02/10/2025: Upload and submit Homework3.cs.
 
 02/10/2025 [Fix]: Fix typos in CHANGELOG
+
+02/17/2025: Upload and submit Homework3.cs.
