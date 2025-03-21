@@ -13,3 +13,5 @@
 02/17/2025: Upload and submit Homework4.cs.
 
 02/20/2025: Upload and submit Homework5.cs and fix typo in CHANGELOG.
+
+03/21/2025: Upload and submit Homework7.cs.
